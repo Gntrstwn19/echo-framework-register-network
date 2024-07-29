@@ -1,0 +1,6 @@
+config/database.go
+db/migrations/20240726122046_create_posts_table.down.sql
+db/migrations/20240726122046_create_posts_table.up.sql
+
+models/domain
+models/web
